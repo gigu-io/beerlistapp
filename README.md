@@ -1,16 +1,38 @@
-# beerlistapp
+<p align="center">
+    <a href="https://github.com/gigu-io/beerlist">
+        <img height="120px" src="images/logo/beerlist_logo.png" />
+    </a>
+</p>
 
-A new Flutter project.
+<p align="center">
+  <strong>
+    A <br />
+    <a href="https://beer.gigu.io/">Beer List</a>
+    <br />
+    for handling beer betting debts 
+  </strong>
+</p>
 
-## Getting Started
+<p align="center">
+  <a href="https://github.com/gigu-io/beerlist/issues"><img
+    src="https://img.shields.io/github/issues/gigu-io/beerlist"
+    alt="Build"
+  /></a>
+  <a href="https://github.com/sponsors/janlauber"><img
+    src="https://img.shields.io/github/sponsors/janlauber" 
+    alt="Sponsors"
+  /></a>
+  <a href="https://github.com/gigu-io/beerlist"><img 
+    src="https://img.shields.io/github/license/gigu-io/beerlist" 
+    alt="License"
+  /></a>
+  <a href="https://www.codefactor.io/repository/github/gigu-io/beerlist"><img 
+    src="https://www.codefactor.io/repository/github/gigu-io/beerlist/badge" 
+    alt="CodeFactor" 
+  /></a>
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+    <strong>This is the official IOs and Android App Repository</strong><br/>
+    Visit <a href="https://github.com/gigu-io/beerlist" target="_blank">https://github.com/gigu-io/beerlist</a> for more information.
+</p>
