@@ -38,8 +38,15 @@
 </p>
 
 ## Dev Docs
+Make sure in your `Podfile` you have set the platform to at least iOS 10.0
 
 ```bash
 flutter pub add firebase_core
+flutter pub add firebase_analytics
+flutter pub add firebase_app_check
+flutter pub add firebase_auth
+flutter pub add firebase_crashlytics
+flutter pub add firebase_performance
+flutter pub add firebase_database
 flutterfire configure
 ```

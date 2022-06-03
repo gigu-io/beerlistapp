@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416566307144",
+    "firebase_url": "https://gigu-8ed82-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gigu-8ed82",
+    "storage_bucket": "gigu-8ed82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416566307144:android:b65b915738531417ef6b7d",
+        "android_client_info": {
+          "package_name": "com.example.beerlistapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416566307144-9va8l9jo93rtb5d4j6beei09h2oung74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBnY7hO4-cedo2FuC79Rrrm_8u36Nzw5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416566307144-9va8l9jo93rtb5d4j6beei09h2oung74.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "416566307144-cr1d12gd7po62qafl8to3ne4d2j8d835.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.gigu.beer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
