@@ -36,3 +36,10 @@
     <strong>This is the official IOs and Android App Repository</strong><br/>
     Visit <a href="https://github.com/gigu-io/beerlist" target="_blank">https://github.com/gigu-io/beerlist</a> for more information.
 </p>
+
+## Dev Docs
+
+```bash
+flutter pub add firebase_core
+flutterfire configure
+```
